@@ -1,0 +1,26 @@
+body{
+    background-color: lightskyblue;
+}
+.main-title{
+    text-align: end;
+}
+.title-red{
+    color:red;
+}
+.green-highlighted{
+    color:darkgreen;
+    background-color: lightyellow;
+}
+.orange{
+    color:orangered;
+}
+p{
+    text-indent: 30px;
+}
+.italic{
+    font-style: italic;
+}
+.footer{
+    margin: 0 auto;
+    text-align: center;
+}

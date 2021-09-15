@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+.sub1, .sub2,.sub3{
+    color: red;
+}
+
+.ejemplo, .div-informacion, .div-experiencia,.div-educacionyformacion{
+    background-color:gainsboro;
+}
+
+.datospersonales, .experiencia,.educacionyformacion{
+    background-color: gray;
+}
+span{
+    color:green;
+}
+u{
+    color:blue;
+}

@@ -1,0 +1,36 @@
+/*body {
+    background-color: lightblue;
+}*/
+
+h1{
+    color:rgb(208, 221, 208);
+    text-align: center;
+    background-color: lightsteelblue;
+}
+/* .class is used to give style to an specific element in the webpage */
+
+/*.p-large class is used to declare styles that object have in common such as font-size  IMPORTANT: The objects have to share the same class (the class is declared in th html file) */
+
+/*Different to the class, the id has to be unique and it help us to make reference to an object #  */
+
+/*The last technique to apply styles to an object is the method in line, it means that you have to write directly in the html label with the property style:*/
+
+#title{
+    color: yellowgreen;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.p-large{
+    font-size: 32px;
+}
+
+.p-green{
+    color: green;
+    background-color:lightsalmon;
+}
+
+.p-red{
+    color:red;
+    background-color: black;
+}

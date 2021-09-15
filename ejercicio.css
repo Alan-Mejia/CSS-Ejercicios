@@ -1,0 +1,44 @@
+/*body{
+    background-color: aquamarine;
+}*/
+.main-title{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 60px;
+    text-align: center;
+}
+.div-bgcolor{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+.ordenated-list1{
+    align-items: flex-end;
+}
+.Ostparagraph{
+    text-align: center;
+    border: crimson;
+    padding: 15px;
+    font-size: 20px;
+}
+.div-table1{
+    position:absolute;
+    top: 190px;
+    right: 100px;
+    left: 800px;
+    border: 3px solid #73AD21;
+}
+.subtitle{
+    width: 100%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+.div-subtitle{
+    position: absolute;
+    top: 120px;
+    left:800px;
+}
+.sub-de-prueba{
+    position:absolute;
+    
+}

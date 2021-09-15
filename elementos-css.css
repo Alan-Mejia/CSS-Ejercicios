@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://w7.pngwing.com/pngs/132/187/png-transparent-cheems-dog.png");
+    background-size: cover;/*adjust the image's size to the screen*/
+}
+.title{
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    /*We can put more than one property at the same time*/
+    margin:50px;
+    border:5px dotted red;
+}
+.subtitle1{
+    background-color: red;
+    color:white;
+    text-align: center;/*this way to align only works with text*/
+    padding: 20px;/*makes an internal margin*/
+    margin:30px;/*margin is the space between one object and other*/
+}
+#caja , #caja2{
+    background-color: black;
+}
+
+#caja{
+    width: 400px;
+    height: 200px;
+    margin: 0 auto; /*the element [how many pixels the div will have of margin in the top and bottom, how many pixels the div will have to the right and left*/
+}
+
+/*Whit this way we can add style to an element inside of other element----> id/class labelwewannaedit */
+/*Also we can put 2 elements ( that share de same style)  in one line*/
+#caja, #caja2 p{
+    color: white;
+    text-align: center;
+}
