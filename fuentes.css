@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+.main-title{
+    font-family: 'Kalam', cursive;
+    font-weight: 300; /*font weight par el grosor de la letra*/
+}
+.font{
+    font-family: 'Creepster', cursive;
+    font-weight: 400;
+}
+.fuentes{
+    font-family: 'Arizonia', cursive;
+    font-weight: 400;
+}
+.plana1{
+    font-family: 'Bungee Inline', cursive;
+    font-weight: 400;
+}
+.plana2{
+    font-family: 'Lexend Exa', sans-serif;
+    font-weight: 400;
+}
+.plana3{
+    font-family: 'Libre Barcode 39', cursive;
+    font-weight: 400;
+}
+.plana4{
+    font-family: 'Bungee Shade', cursive;
+    font-weight: 400;
+}
+.plana5{
+    font-family: 'Codystar', cursive;
+    font-weight: 400;
+}
+.plana6{
+    
+}
