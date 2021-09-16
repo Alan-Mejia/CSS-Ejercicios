@@ -1,0 +1,39 @@
+.main-title{
+    font-size: 70px;
+}
+.menu{
+    font-size: 30px;
+    margin: auto;
+    border: 10px solid green;
+}
+.galery{
+    text-align: center;
+}
+.image-flags{
+    margin: auto;
+    width: 800px;
+    display: block;
+}
+.pozole{
+    width: 300px;
+}
+.chiles{
+    width: 300px;
+}
+.chilaquiles{
+    width: 300px;
+}
+.table-food{
+    text-align: center;
+    margin: auto;
+    margin:10px,auto;
+    font-size: 30px;
+}
+.main-title{
+    text-align: center;
+}
+.footer{
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
